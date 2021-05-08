@@ -1,0 +1,8 @@
+ST_MPU6050.c:35:6:MPU6050_Read	32	static
+ST_MPU6050.c:41:6:MPU6050_Write	32	static
+ST_MPU6050.c:47:15:MPU6050_Init	24	static,ignoring_inline_asm
+ST_MPU6050.c:126:21:MPU6050_AcceRead_Raw	32	static
+ST_MPU6050.c:144:24:MPU6050_AcceRead_Scaled	48	static
+ST_MPU6050.c:156:21:MPU6050_GyroRead_Raw	32	static
+ST_MPU6050.c:175:24:MPU6050_GyroRead_Scaled	48	static
+ST_MPU6050.c:188:6:MPU6050_Calib	88	static
